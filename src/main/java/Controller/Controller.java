@@ -1,12 +1,10 @@
 package Controller;
 
 import Data.ComplexNumber;
-import Data.NumberWithTwoParameters;
 import Data.RationalNumber;
 import Service.NumberService;
 import View.UserView;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class Controller {

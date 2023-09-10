@@ -1,6 +1,6 @@
 package Data;
 
-public class RationalNumber extends NumberWithTwoParameters {
+public class RationalNumber {
     private int numerator;
     private int denominator;
 

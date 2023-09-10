@@ -1,6 +1,6 @@
 package Data;
 
-public class ComplexNumber extends NumberWithTwoParameters {
+public class ComplexNumber {
     private double realPart;
 
     private double imaginaryPart;
